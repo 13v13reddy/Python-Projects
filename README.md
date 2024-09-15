@@ -1,7 +1,5 @@
-# Changed from Local repo
-# Changed from Remote Repo
-# Changed again from remote repo
-#Nothing Changed
+
+# Practicing git push command
 [![Run on Repl.it](https://repl.it/badge/github/seakun/Python-Projects)](https://repl.it/github/seakun/Python-Projects)
 # Python Projects
 
